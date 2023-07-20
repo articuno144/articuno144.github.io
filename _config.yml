@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "Yuntao Ma"
   avatar           : "/assets/images/yuntao_profile.jpg"
-  bio              : "I am a Ph.D. student at Robotics Systems Lab. I primarily work on learning-based agile control of legged mobile manipulators."
+  bio              : "Legged mobile manipulation"
   location         : "Zürich, Switzerland"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mayun@leggedrobotics.com"
+      url: "mailto:mayun@ethz.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -128,6 +128,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Google Scholar"
+      # icon: "fab fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=do0paQsAAAAJ&hl=en"
 
 # Site Footer
 footer:
