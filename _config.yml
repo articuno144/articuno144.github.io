@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "yuntao - legged mobile manipulation"
+title                    : "Yuntao - ALMA trainer"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yuntao Ma"
@@ -24,7 +24,7 @@ description              : "A blank website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/teaser.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -105,14 +105,14 @@ analytics:
 # Site Author
 author:
   name             : "Yuntao Ma"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "ALMA trainer."
+  avatar           : "/assets/images/yuntao_profile.jpg"
+  bio              : "I am a Ph.D. student at Robotics Systems Lab. I primarily work on learning-based agile control of legged mobile manipulators."
   location         : "Zürich, Switzerland"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mayun@leggedrobotics.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -275,10 +275,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-main:
-  - title: "About"
-    url: /about/
 
 # Defaults
 defaults:
