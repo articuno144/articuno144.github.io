@@ -1,5 +1,5 @@
 ---
-title:  "Learning Arm-Assisted Fall Damage Reduction and Recovery for Legged Mobile Manipulators"
+title:  "Arm-Assisted Fall Damage Reduction and Recovery"
 header:
   image: /assets/recovery/experiment_weekend.gif
 ---
