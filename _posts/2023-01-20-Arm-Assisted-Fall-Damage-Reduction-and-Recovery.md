@@ -11,7 +11,7 @@ We've trained ALMA to adaptively recover using its arm.
 
 Previously, to make the ANYmal robots (including ALMA) rest, we typically ran the [free_gait](https://github.com/leggedrobotics/free_gait) control with scripted motions. This method worked well on flat terrain. However, when we went into wild terrains or attached payloads, the motions would sometimes deviate from the planned course. To address this, I trained a learning-based resting controller using [time-based rewards](https://sites.google.com/leggedrobotics.com/end-to-end-loco-navigation/home), which worked immediately. Given the ease of training state transition policies with this type of reward, it raises the question: how far can we push this?
 
-![resting]({{ site.url }}/assets/recovery/resting.gif)
+![resting]({{ site.url }}/assets/recovery/resting_merged.gif)
 
 We attempted to train a single policy for fall damage reduction, fall recovery, and standing up. Once again, things mostly worked straight away. With randomized initialization and time-based rewards, the robot exhibited this behavior: it would rest on the ground and not stand up until the last minute.
 

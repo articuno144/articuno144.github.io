@@ -8,14 +8,19 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.archive__item-content {
+.archive__item-header {
   display: flex;
-  flex-direction: row; 
-  justify-content: space-between;
-  align-items: flex-start;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+}
+
+.archive__item-title {
+  flex: 1;
 }
 
 .archive__item-image img {
-  width: 150px;  // Adjust to the desired width.
-  height: auto;  // Maintain the image's aspect ratio.
+  float: left; 
+  margin-right: 20px; 
+  width: 200px; 
 }
