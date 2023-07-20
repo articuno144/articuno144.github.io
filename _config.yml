@@ -276,6 +276,9 @@ compress_html:
   ignore:
     envs: development
 
+main:
+  - title: "About"
+    url: /about/
 
 # Defaults
 defaults:
