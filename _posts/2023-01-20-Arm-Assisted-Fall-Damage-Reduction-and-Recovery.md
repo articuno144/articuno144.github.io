@@ -1,7 +1,5 @@
 ---
 title:  "Learning Arm-Assisted Fall Damage Reduction and Recovery for Legged Mobile Manipulators"
-header:
-  image: /assets/recovery/experiment_weekend.gif
 ---
 
 We've trained ALMA to adaptively recover using its arm.
