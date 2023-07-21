@@ -1,7 +1,7 @@
 ---
 title:  "Arm-Assisted Fall Damage Reduction and Recovery"
 header:
-  image: /assets/recovery/experiment_weekend.gif
+  image: /assets/recovery/experiment_weekend_compressed.gif
 ---
 
 We've trained ALMA to adaptively recover using its arm.

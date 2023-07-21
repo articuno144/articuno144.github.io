@@ -1,7 +1,7 @@
 ---
 title:  "Combining MPC-controlled arm and RL-controlled legs"
 header:
-  image: /assets/marb/real_2021.gif
+  image: /assets/marb/real_2021_compressed.gif
 ---
 
 Bringing ALMA to rough terrain.
