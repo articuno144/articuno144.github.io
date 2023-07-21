@@ -1,5 +1,5 @@
 ---
-title:  "Arm-Assisted Fall Damage Reduction and Recovery"
+title:  "Learning agile badminton skills"
 header:
   image: /assets/badminton/exp_feb.gif
 ---
