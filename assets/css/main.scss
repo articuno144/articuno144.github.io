@@ -8,6 +8,19 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+/* Custom link color override */
+a {
+  color: #0c1844 !important;
+  
+  &:visited {
+    color: #0c1844 !important;
+  }
+  
+  &:hover {
+    color: lighten(#0c1844, 15%) !important;
+  }
+}
+
 .archive__item-header {
   display: flex;
   flex-direction: row;
