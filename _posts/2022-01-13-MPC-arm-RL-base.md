@@ -4,7 +4,7 @@ header:
   image: /assets/marb/real_2021_compressed.gif
 ---
 
-Bringing ALMA to rough terrain.
+Bringing legged manipulators to rough terrain.
 
 [arXiv link](https://arxiv.org/pdf/2201.03871.pdf)
 [Video](https://www.youtube.com/watch?v=ZCv8W_NzhVo)

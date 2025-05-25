@@ -4,12 +4,12 @@ header:
   image: /assets/recovery/experiment_weekend_compressed.gif
 ---
 
-We've trained ALMA to adaptively recover using its arm.
+We've trained legged manipulators to adaptively recover using its arm.
 
 [arXiv link](https://arxiv.org/abs/2303.05486)
 [Video](https://www.youtube.com/watch?v=avwg2HqGi8s)
 
-Previously, to make the ANYmal robots (including ALMA) rest, we typically ran the [free_gait](https://github.com/leggedrobotics/free_gait) control with scripted motions. This method worked well on flat terrain. However, when we went into wild terrains or attached payloads, the motions would sometimes deviate from the planned course. To address this, I trained a learning-based resting controller using [time-based rewards](https://sites.google.com/leggedrobotics.com/end-to-end-loco-navigation/home), which worked immediately. Given the ease of training state transition policies with this type of reward, it raises the question: how far can we push this?
+Previously, to make the ANYmal robots (including legged manipulators) rest, we typically ran the [free_gait](https://github.com/leggedrobotics/free_gait) control with scripted motions. This method worked well on flat terrain. However, when we went into wild terrains or attached payloads, the motions would sometimes deviate from the planned course. To address this, I trained a learning-based resting controller using [time-based rewards](https://sites.google.com/leggedrobotics.com/end-to-end-loco-navigation/home), which worked immediately. Given the ease of training state transition policies with this type of reward, it raises the question: how far can we push this?
 
 ![resting]({{ site.url }}/assets/recovery/resting_merged.gif)
 

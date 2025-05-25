@@ -4,6 +4,6 @@ header:
   image: /assets/badminton/exp_feb_compressed.gif
 ---
 
-We are trying to let ALMA play badminton.
+We are trying to let legged manipulators play badminton.
 
-The research is still WIP. Please stay tuned!
+The research will soon be published. Please stay tuned!
