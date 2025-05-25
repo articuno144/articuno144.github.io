@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -20,7 +20,7 @@ title                    : "Yuntao Ma"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yuntao Ma"
-description              : "Yuntao Ma - Robotic Systems Lab, ETH Zürich."
+description              : "Yuntao Ma - Legged mobile manipulation."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,12 +107,12 @@ author:
   name             : "Yuntao Ma"
   avatar           : "/assets/images/yuntao_profile_winter.jpg"
   bio              : "Legged mobile manipulation"
-  location         : "Zürich, Switzerland"
+  location         : "Singapore"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mayun@ethz.ch"
+      url: "mailto:mayuntao94@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -130,7 +130,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Google Scholar"
       # icon: "fab fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=do0paQsAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=WnjRS5EAAAAJ&hl=en"
 
 # Site Footer
 footer:
