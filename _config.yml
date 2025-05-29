@@ -20,7 +20,7 @@ title                    : "Yuntao Ma"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yuntao Ma"
-description              : "Yuntao Ma - Legged mobile manipulation."
+description              : "Yuntao Ma - Roboticist."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Yuntao Ma"
   avatar           : "/assets/images/yuntao_profile_spring_2025.jpg"
-  bio              : "Legged mobile manipulation"
+  bio              : "Roboticist"
   location         : "Singapore"
   email            :
   links:
